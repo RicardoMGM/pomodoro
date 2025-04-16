@@ -64,4 +64,4 @@ MIT. Livre para uso, modificação e distribuição.
 
 ---
 
-Feito com 🍅 por [Ricardo](https://github.com/RicardoMGM)
+Feito com 🍅 por [Ricardo Manuel](https://github.com/RicardoMGM)
