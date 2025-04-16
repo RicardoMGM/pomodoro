@@ -1,3 +1,4 @@
+/* 🌞 Tema Claro (padrão) */
 body {
   background-color: #fff5f5;
   font-family: Arial, sans-serif;
@@ -53,4 +54,43 @@ h1 {
   margin-top: 10px;
   font-size: 14px;
   color: #990000;
+}
+
+/* 🌙 Tema Escuro (automático) */
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #1a1a1a;
+    color: #f8dada;
+  }
+
+  .container {
+    background-color: #2b2b2b;
+    border-color: #992222;
+    box-shadow: 0 0 12px rgba(255, 100, 100, 0.3);
+  }
+
+  h1 {
+    color: #ff9999;
+  }
+
+  #timer {
+    color: #ff6b6b;
+  }
+
+  .controls button {
+    background-color: #4d1a1a;
+    color: #ffe6e6;
+  }
+
+  .controls button:hover {
+    background-color: #802020;
+  }
+
+  #status {
+    color: #ff8888;
+  }
+
+  #cycles {
+    color: #ffaaaa;
+  }
 }

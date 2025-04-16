@@ -23,3 +23,51 @@ Essa técnica ajuda a manter o foco e evitar o esgotamento mental.
 - 📱 Design adaptável para dispositivos móveis (pode ser melhorado)
 
 ---
+
+## 📁 Estrutura de Arquivos
+
+```
+pomodoro/
+├── index.html       # Estrutura principal
+├── style.css        # Estilos com paleta em vermelho
+├── script.js        # Lógica do temporizador
+├── start.mp3        # Som ao iniciar
+└── end.mp3          # Som ao finalizar
+```
+
+---
+
+## 📦 Como usar
+
+1. Faça o clone ou download do repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/pomodoro-timer.git
+   ```
+
+2. Abra o arquivo `index.html` no seu navegador.
+
+3. Clique nos botões para iniciar, pausar ou resetar o temporizador.
+
+---
+
+## 📌 Requisitos
+
+- Nenhuma instalação ou dependência extra
+- Funciona direto no navegador
+- Fonte de ícones: [Font Awesome (CDN)](https://cdnjs.com)
+
+---
+
+## ✨ Demonstração
+
+(Adicione aqui um GIF ou imagem da aplicação funcionando, ou um link para GitHub Pages caso publique)
+
+---
+
+## 📄 Licença
+
+MIT. Livre para uso, modificação e distribuição.
+
+---
+
+Feito com 🍅 por [Ricardo](https://github.com/RicardoMGM)
