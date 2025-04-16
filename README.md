@@ -58,12 +58,6 @@ pomodoro/
 
 ---
 
-## ✨ Demonstração
-
-(Adicione aqui um GIF ou imagem da aplicação funcionando, ou um link para GitHub Pages caso publique)
-
----
-
 ## 📄 Licença
 
 MIT. Livre para uso, modificação e distribuição.
